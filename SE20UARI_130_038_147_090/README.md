@@ -10,7 +10,7 @@
 <br>
 
 ### Report:
-- ```Report_RaspberryPi.pdf``` - Report for the assignment
+- ```Report_RaspberryPi.pdf``` - Report for the assignment. (Download the PDF to view it)
 <br>
 
 ### Codes:
